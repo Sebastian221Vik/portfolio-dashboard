@@ -75,8 +75,6 @@ En la sección "Predicción ML" se utiliza un modelo de **Regresión Lineal** pa
 portfolio-dashboard/
 ├── app.py # Código principal de la aplicación
 ├── README.md # Documentación del proyecto
-└── venv/ # Entorno virtual (no incluir en repositorios)
-text---
 
 ## Instalación y Ejecución
 
