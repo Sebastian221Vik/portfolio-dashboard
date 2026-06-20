@@ -2,6 +2,7 @@
 
 Aplicación web interactiva para el análisis y seguimiento de portafolios de inversión utilizando datos reales del mercado.
 
+link de la pagina: https://portfolio-dashboard-zpxftj25eoapbtzjpmqybd.streamlit.app/
 ---
 
 ## Introducción
